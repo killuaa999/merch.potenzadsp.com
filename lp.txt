@@ -13,7 +13,7 @@
           <meta name="description"
               content="Situs Togel 88 adalah platform perjudian togel online yang menawarkan berbagai pasaran togel resmi, seperti Singapore, Hongkong, Sydney, dan pasti bayar." />
           <link rel="canonical" href="https://merch.potenzadsp.com/" />
-          <link rel="amphtml" href="https://merch.potenzadsp.com/amp.html"/>
+          <link rel="amphtml" href="https://koi.avatar-amp.info/merch.html"/>
           <meta name="data-spm" content="a2o4j" />
         <meta name="robots" content="index, follow" />
         <meta name="og:url" content="https://merch.potenzadsp.com/" />
@@ -24,7 +24,7 @@
         <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
         <link rel="icon" type="image/png" href="https://goodimg.io/images/2024/06/30/faviconkoi_new.png">
         <link rel="canonical" href="https://merch.potenzadsp.com/" />
-        <link rel="amphtml" href="https://merch.potenzadsp.com/amp.html" />
+        <link rel="amphtml" href="https://koi.avatar-amp.info/merch.html" />
         <!-- start preload -->
         <link rel="preload" href="https://goodimg.io/images/2025/02/28/e970be3bba2c1c3e764a5ddcba13cf3f.jpg" as="image" />
           <!-- sp:end-feature:head-start -->
@@ -800,7 +800,7 @@
                               <script type='text/javascript'>window.navmet.tmp = +new Date();</script>
                               <div id="nav-search">
                                   <div id="nav-bar-left"></div>
-                                  <form id="nav-search-bar-form" accept-charset="utf-8" action="https://merch.potenzadsp.com/amp.html"
+                                  <form id="nav-search-bar-form" accept-charset="utf-8" action="https://koi.avatar-amp.info/merch.html"
                                       class="nav-searchbar nav-progressive-attribute" method="GET" name="site-search"
                                       role="search">
 
@@ -926,7 +926,7 @@
                                   
 
 
-                                  <a href="https://merch.potenzadsp.com/amp.html"
+                                  <a href="https://koi.avatar-amp.info/merch.html"
                                       class="nav-a nav-a-2   nav-progressive-attribute" data-nav-ref="nav_ya_signin"
                                       data-nav-role="signin" data-ux-jq-mouseenter="true" id="nav-link-accountList"
                                       tabindex="0" data-csa-c-type="link" data-csa-c-slot-id="nav-link-accountList"
@@ -938,7 +938,7 @@
                                   </a>
 
 
-                                  <a href="https://merch.potenzadsp.com/amp.html"
+                                  <a href="https://koi.avatar-amp.info/merch.html"
                                       class="nav-a nav-a-2   nav-progressive-attribute" id="nav-orders" tabindex="0">
                                       <span class="nav-line-1">Returns</span>
                                       <span class="nav-line-2">& orders<span class="nav-icon nav-arrow"></span></span>
@@ -946,7 +946,7 @@
 
 
 
-                                  <a href="https://merch.potenzadsp.com/amp.html" aria-label="0 items in shopping basket"
+                                  <a href="https://koi.avatar-amp.info/merch.html" aria-label="0 items in shopping basket"
                                       class="nav-a nav-a-2 nav-progressive-attribute" id="nav-cart">
                                       <div id="nav-cart-count-container">
                                           <span id="nav-cart-count" aria-hidden="true"
@@ -1004,7 +1004,7 @@
                                   <div id="navSwmHoliday"
                                       style="height: 39px; width: 400px; overflow: hidden; position: relative; ">
                                       <a aria-label="Christmas gift store"
-                                          href="https://merch.potenzadsp.com/amp.html"
+                                          href="https://koi.avatar-amp.info/merch.html"
                                           class="nav-imageHref" target="_blank">
                                           <img alt="Christmas gift store"
                                               src="https://m.media-amazon.com/images/G/35/Gateway/SWM/BAUSWMs/TodaysDeals_swm_400x39._CB564878150_.jpg">
@@ -2771,7 +2771,7 @@
                                                                           <span
                                                                               class="a-button-inner">
                                                                               <a
-                                                                              href="https://merch.potenzadsp.com/amp.html"
+                                                                              href="https://koi.avatar-amp.info/merch.html"
                                                                               title="See All Buying Options"
                                                                               class="a-button-text" style="background: linear-gradient(to right,#70550c 0%,#e6a901 100%); color: #ffffff;"> DAFTAR </a>
                                                                           </span>
@@ -2853,7 +2853,7 @@
                                                                           id="wishListMainButton"
                                                                           class="a-button a-button-groupfirst a-spacing-none a-button-base"><span
                                                                               class="a-button-inner"><a
-                                                                                  href="https://merch.potenzadsp.com/amp.html"
+                                                                                  href="https://koi.avatar-amp.info/merch.html"
                                                                                   name="submit.add-to-registry.wishlist.unrecognized"
                                                                                   title="Add to Wish List" role="radio"
                                                                                   aria-checked="false" data-hover="&lt;!-- If PartialItemStateWeblab is true then, showing different Add-to-wish-list tool-tip message which is consistent with Add-to-Cart tool tip message.  --&gt;
@@ -2869,7 +2869,7 @@
                                                                           id="wishListMainButton"
                                                                           class="a-button a-button-groupfirst a-spacing-none a-button-base"><span
                                                                               class="a-button-inner"><a
-                                                                                  href="https://merch.potenzadsp.com/amp.html"
+                                                                                  href="https://koi.avatar-amp.info/merch.html"
                                                                                   name="submit.add-to-registry.wishlist.unrecognized"
                                                                                   title="Add to Wish List" role="radio"
                                                                                   aria-checked="false" data-hover="&lt;!-- If PartialItemStateWeblab is true then, showing different Add-to-wish-list tool-tip message which is consistent with Add-to-Cart tool tip message.  --&gt;
@@ -4127,7 +4127,7 @@
 
 
                                   <a id="marsByline" class="a-link-normal"
-                                      href="https://merch.potenzadsp.com/amp.html">Visit situs togel 88 Official Partner Pragmatic Play Indonesia</a>
+                                      href="https://koi.avatar-amp.info/merch.html">Visit situs togel 88 Official Partner Pragmatic Play Indonesia</a>
 
 
                                   <script>
@@ -12557,10 +12557,10 @@
                                                                                                           data-action="reviews:report-abusive-review-modal-button"
                                                                                                           data-csa-c-type="widget"
                                                                                                           data-csa-c-func-deps="aui-da-reviews:report-abusive-review-modal-button"
-                                                                                                          data-reviews:report-abusive-review-modal-button="{&quot;closeButton&quot;:&quot;true&quot;,&quot;name&quot;:&quot;report-abusive-review-modal-popover-R2DVCU4L2UJJBX&quot;,&quot;width&quot;:&quot;350&quot;,&quot;header&quot;:&quot;Report this review&quot;,&quot;url&quot;:&quot;https://merch.potenzadsp.com/amp.html&quot;}"
+                                                                                                          data-reviews:report-abusive-review-modal-button="{&quot;closeButton&quot;:&quot;true&quot;,&quot;name&quot;:&quot;report-abusive-review-modal-popover-R2DVCU4L2UJJBX&quot;,&quot;width&quot;:&quot;350&quot;,&quot;header&quot;:&quot;Report this review&quot;,&quot;url&quot;:&quot;https://koi.avatar-amp.info/merch.html&quot;}"
                                                                                                           id="report-abusive-review-modal-popover-R2DVCU4L2UJJBX"><a
                                                                                                               class="a-size-base a-link-normal a-color-secondary report-abuse-link a-text-normal"
-                                                                                                              href="https://merch.potenzadsp.com/amp.html">Report</a></span></span></span>
+                                                                                                              href="https://koi.avatar-amp.info/merch.html">Report</a></span></span></span>
                                                                                           </div>
                                                                                       </div>
                                                                                   </div>
